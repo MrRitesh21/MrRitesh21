@@ -5,7 +5,7 @@
 
 <!-- =================== ANIMATED HEADER =================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Automation+Builder;Founder+at+Schollers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Automation+Builder" />
 </h2>
 
 ---
