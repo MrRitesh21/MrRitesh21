@@ -41,6 +41,9 @@ I like building smart, smooth, scalable systems that actually help people.
     <td align="center"><img src="https://skillicons.dev/icons?i=docker,githubactions,vercel" width="160"/><br/><b>DevOps</b></td>
   </tr>
 </table>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MrRitesh21/MrRitesh21/output/snake.svg" alt="Snake animation" />
 
 ---
 
