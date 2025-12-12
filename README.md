@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,100:1a1a1a&text=Ritesh%20Verma&fontColor=ffffff&fontSize=65&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Automation%20Architect%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" />
 </p>
 
+<!-- =================== NEON BLUE AI PARTICLES =================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itslunararchive/particles/main/neon-blue-ai-particles.svg" width="100%" />
+</p>
+
 <!-- =================== FLOATING ANIMATED HEADER =================== -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Automation+Builder;Founder+of+Schollers;Building+the+Future+with+AI" />
@@ -10,10 +15,10 @@
 
 ---
 
-## 🌟 About Me
+## <img src="https://github.com/itslunararchive/midnight/raw/main/icons/star.gif" width="25" /> About Me
 
-I'm **Ritesh Verma**, an AI Engineer from India focused on building intelligent systems, automation pipelines, and full-stack apps.  
-I like creating products that are smooth, fast and actually useful in the real world.
+I'm **Ritesh Verma**, an AI Engineer from India focused on designing intelligent systems, multi-agent architectures, automation workflows, and next-gen full-stack applications.  
+I like creating smooth, smart, and efficient systems that make life easier.
 
 ---
 
@@ -52,14 +57,16 @@ I like creating products that are smooth, fast and actually useful in the real w
 
 ## 🚀 Featured Projects
 
-### 🔹 **DineUp – AI Restaurant Ecosystem**  
-AI-powered restaurant management with automated order handling, dynamic menu intelligence, real-time dashboards, and multi-branch control.  
+### 🔹 **DineUp – AI Restaurant Ecosystem**
+> Smart restaurant management system powered by AI.  
+Automation • Live Analytics • Multi-Branch Management • AI Billing • Menu Optimizer  
 <img src="https://github.com/itslunararchive/midnight/raw/main/icons/neonbolt.gif" width="18" />
 
 ---
 
-### 🔹 **Level-1 AGI System**  
-A modular AGI system capable of reasoning, taking actions, orchestrating multi-agent tasks and improving autonomously.  
+### 🔹 **Level-1 AGI System**
+> A modular AGI-inspired system with reasoning, autonomy, multi-agent control, and real-time decision making.  
+Self-Improving Loops • Autonomous Tools • Agent Orchestration  
 <img src="https://github.com/itslunararchive/midnight/raw/main/icons/orb.gif" width="18" />
 
 ---
@@ -80,13 +87,20 @@ A modular AGI system capable of reasoning, taking actions, orchestrating multi-a
   </a>
 </p>
 
+<p align="center">
+Explore my work, projects, experiments, and everything I build across AI and automation.
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRitesh21&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRitesh21&layout=compact&theme=tokyonight&border_radius=12" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRitesh21&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRitesh21&layout=compact&theme=tokyonight&border_radius=10" height="165" />
+
 </div>
 
 ---
@@ -99,7 +113,7 @@ A modular AGI system capable of reasoning, taking actions, orchestrating multi-a
   </a>
   <a href="mailto:riteshrrr7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>  
   <a href="https://www.linkedin.com/in/ritesh-verma21/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -107,9 +121,6 @@ A modular AGI system capable of reasoning, taking actions, orchestrating multi-a
 
 ---
 
-## 🐍 Neon Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MrRitesh21/MrRitesh21/output/snake.svg?palette=neon" alt="Neon Snake animation" />
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+</p>
