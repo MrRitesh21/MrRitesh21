@@ -3,9 +3,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:1a1a1a&text=Ritesh%20Verma&fontColor=ffffff&fontSize=65&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20|%20Automation%20Architect%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=60" />
 </p>
 
-<!-- ================= PARTICLE ANIMATION (NEON BLUE) ================= -->
+<!-- ================= INLINE NEON BLUE PARTICLE ANIMATION ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PathwayMobility/particle-assets/main/blue-particles.svg" width="100%" />
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="220" fill="#020202"/>
+  <g>
+    <circle cx="200" cy="80" r="3" fill="#00e5ff">
+      <animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="200;230;200" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="150" r="3" fill="#00b7ff">
+      <animate attributeName="cy" values="150;120;150" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="400;370;400" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="100" r="4" fill="#00caff">
+      <animate attributeName="cy" values="100;70;100" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="650;690;650" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="140" r="3" fill="#00e1ff">
+      <animate attributeName="cy" values="140;110;140" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="900;930;900" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="60" r="4" fill="#00d4ff">
+      <animate attributeName="cy" values="60;40;60" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="1100;1070;1100" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
 </p>
 
 <!-- ================= ANIMATED TITLE ================= -->
@@ -17,16 +41,16 @@
 
 ## ⭐ About Me
 
-I'm **Ritesh Verma**, an AI Engineer from India working on intelligent systems, multi-agent automation, real-time AI pipelines, and advanced full-stack applications.
+I'm **Ritesh Verma**, an AI Engineer from India working on intelligent systems, multi-agent automation, reasoning frameworks, and futuristic full-stack apps.
 
-I enjoy building smooth, smart systems that feel futuristic and solve real problems.
+I focus on building smooth, scalable, AI-powered systems that solve real-world problems.
 
 ---
 
 ## 🔥 Rotating Quotes & Goals
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=1000&color=F2F2F2&center=true&vCenter=true&width=780&lines=Building+AI+that+solves+real+problems.;Pushing+automation+to+the+next+level.;Turning+ideas+into+production-ready+systems.;Learning+daily+and+improving+daily.;Creating+technology+that+helps+millions." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=1000&color=F2F2F2&center=true&vCenter=true&width=780&lines=Building+AI+that+solves+real+problems.;Pushing+automation+to+the+next+level.;Turning+ideas+into+production-ready+systems.;Improving+daily.;Creating+technology+that+helps+millions." />
 </div>
 
 ---
@@ -60,14 +84,14 @@ I enjoy building smooth, smart systems that feel futuristic and solve real probl
 
 ### 🔹 **DineUp – AI Restaurant Ecosystem**
 A next-gen restaurant management platform powered by AI.  
-✔ Automated Billing • ✔ Live Analytics • ✔ Menu Intelligence • ✔ Multi-Branch Ops  
+✔ Automated Billing • ✔ Menu Intelligence • ✔ Live Analytics • ✔ Multi-Branch Operations  
 <p><img src="https://github.com/itslunararchive/midnight/raw/main/icons/neonbolt.gif" width="25"/></p>
 
 ---
 
 ### 🔹 **Level-1 AGI System**
-A modular AGI-inspired system with reasoning, autonomy, multi-agent orchestration and self-improving loops.  
-✔ Agent Control • ✔ Real-Time Reasoning • ✔ Tool Autonomy  
+A modular AGI-inspired system with multi-agent control, reasoning, autonomy, and self-improving loops.  
+✔ Agent Orchestration • ✔ Autonomous Tools • ✔ Real-Time Reasoning  
 <p><img src="https://github.com/itslunararchive/midnight/raw/main/icons/orb.gif" width="25"/></p>
 
 ---
@@ -75,7 +99,7 @@ A modular AGI-inspired system with reasoning, autonomy, multi-agent orchestratio
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrRitesh21&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrRitesh21&theme=dracula&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -94,10 +118,10 @@ A modular AGI-inspired system with reasoning, autonomy, multi-agent orchestratio
 
 <div align="center">
 
-  <!-- Working Stats Mirror -->
+  <!-- Stats Mirror 100% Working -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrRitesh21&theme=tokyonight&show_icons=true&rank_icon=github" height="160" />
 
-  <!-- Working Langs Mirror -->
+  <!-- Languages Mirror -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrRitesh21&layout=compact&theme=tokyonight" height="160" />
 
 </div>
