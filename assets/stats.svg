@@ -1,0 +1,22 @@
+<svg width="460" height="200" viewBox="0 0 460 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="460" height="200" fill="#050505"/>
+  <text x="30" y="40" font-size="22" fill="#00e5ff" font-family="Inter" font-weight="600">
+    GitHub Stats — Ritesh Verma
+  </text>
+
+  <text x="30" y="80" font-size="16" fill="#9aefff" font-family="Inter">
+    ● Total Repositories: 10
+  </text>
+
+  <text x="30" y="110" font-size="16" fill="#9aefff" font-family="Inter">
+    ● Public Contributions (YTD): Loading…
+  </text>
+
+  <text x="30" y="140" font-size="16" fill="#9aefff" font-family="Inter">
+    ● Followers: 0
+  </text>
+
+  <text x="30" y="170" font-size="16" fill="#9aefff" font-family="Inter">
+    ● Stars: 2
+  </text>
+</svg>
