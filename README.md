@@ -80,15 +80,13 @@ A modular AGI-inspired system featuring:
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">🔥   My Stats :</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRitesh21&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRitesh21&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ---
 
