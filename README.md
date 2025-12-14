@@ -32,7 +32,10 @@ I work at the intersection of:
 
 I enjoy turning ideas into real products that actually get used.
 
----
+
+<br clear="both">
+
+<img src="./assets/snake.svg" alt="Snake animation" />
 
 ### 🔄 What I’m Focused On
 
@@ -40,11 +43,8 @@ I enjoy turning ideas into real products that actually get used.
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real+problems.;Designing+fast+automation+systems.;Creating+clean+and+scalable+software.;Learning+and+improving+every+day." />
 </div>
 
-###
 
-<br clear="both">
 
-<img src="./assets/snake.svg" alt="Snake animation" />
 
 ###
 
