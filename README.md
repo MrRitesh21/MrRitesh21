@@ -20,7 +20,7 @@ I work on multi-agent systems, automation frameworks, and simple full-stack apps
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/MrRitesh21/MrRitesh21/assets/snake.svg" alt="Snake animation" />
+<img src="assets/snake.svg" alt="Snake animation" />
 
 
 ## 🔧 Tech Stack
