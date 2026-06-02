@@ -8,7 +8,7 @@
 <h3 align="center">AI Engineer • Automation Architect • Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://ritesh.digiwil.in">
+  <a href="https://ritesh.digiwil.com">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00E5FF?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/ritesh-verma21">
